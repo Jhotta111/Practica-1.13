@@ -36,5 +36,5 @@ hr.a {
         p.izq {text-align:right}
         p.der {text-align: left}
 
-        img.cont {float: left;
-        margin: 10px;}
+        img.cont {		    margin:10px auto;
+		    display:block;}
